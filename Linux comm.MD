@@ -12,7 +12,7 @@
 
 4.cd dir--------------->change directory to dir.
 
-5.pwd------------------->show current working directory.
+5.pwd-------------------> show present working directory.
 
 6.mkdir dir-------------->create a new directory dir.
 
