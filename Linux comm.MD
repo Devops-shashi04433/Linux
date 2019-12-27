@@ -42,6 +42,6 @@
 
 19. whoami-------------------------------> Who you are logged in as.
 
-20.. df-----------------------------------> show the disk usage.
+20. df-----------------------------------> show the disk usage.
 
 
