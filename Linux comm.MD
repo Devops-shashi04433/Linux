@@ -1,8 +1,7 @@
 
  # Linux commands
        
-       
-      [linux commands](http://cc.iiti.ac.in/docs/linuxcommands.pdf)
+       (http://cc.iiti.ac.in/docs/linuxcommands.pdf)
  
 
 1.ls------------------>Directiory listing.
