@@ -1,5 +1,8 @@
 https://www.tldp.org/LDP/gs/node5.html
 
+## Linux commands
+    http://cc.iiti.ac.in/docs/linuxcommands.pdf
+
 # Linux Concepts .
 
 1.Introduction.
