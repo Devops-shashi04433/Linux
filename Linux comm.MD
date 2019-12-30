@@ -1,7 +1,7 @@
 
  # Linux commands
        
-       (http://cc.iiti.ac.in/docs/linuxcommands.pdf)
+    https://www.javatpoint.com/linux-tutorial
  
 
 1.ls------------------>Directiory listing.
