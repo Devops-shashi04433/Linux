@@ -8,7 +8,7 @@
 
 2.ls-lt----------------->Sorting the Formatted listing by time modification.
  
-3. CD---------------->Change to home  directiory.
+3. CD---------------->change to location  which you wanna work.
 
 4.cd dir--------------->change directory to dir.
 
@@ -43,5 +43,7 @@
 19. whoami-------------------------------> Who you are logged in as.
 
 20. df-----------------------------------> show the disk usage.
+
+21.
 
 
